@@ -13,7 +13,7 @@
 
 ## 🌟 Features
 
-- 🎨 Supports **MiniMessage** for full MOTD styling
+- 🎨 Supports **MiniMessage** (and legacy!) for full MOTD styling
 - 🧠 Custom **variables** like `%date%`, `%time%`, and more (Java SimpleDateFormat)
 - 🌈 Four MOTD Modes:
   - ✅ Standard — One static MOTD
