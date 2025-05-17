@@ -1,0 +1,5 @@
+name: WFsMOTD
+version: '1.0-SNAPSHOT'
+main: tvvilight.wolnefury.wFsMOTD.WFsMOTD
+api-version: '1.21'
+authors: [ wolnefury ]
